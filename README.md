@@ -1,6 +1,14 @@
 # Seinfeld Script Generator
 
-A Seinfeld TV script generator built with an RNN + LSTMs, and trained up on the full Seinfeld script corpus. See the Jupyter notebook here: [seinfeld_tv_script_generation_rnn.ipynb](seinfeld_tv_script_generation_rnn.ipynb). This exercise was part of the [Udacity Deep Learning / ML nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
+### Overview
+
+A Seinfeld TV script generator built with an RNN + LSTMs, and trained up on the full Seinfeld script corpus.
+
+### Jupyter Notebook
+
+See the Jupyter notebook here: [seinfeld_tv_script_generation_rnn.ipynb](seinfeld_tv_script_generation_rnn.ipynb).
+
+### Results
 
 Here's an example script that was generated:
 
@@ -33,3 +41,7 @@ elaine: you don't have to do this?
 jerry:(to kramer) i don't want to.
 kramer: well, you know, if you're going to be a little more than a man, you have to say anything to me.
 ```
+
+### References
+
+This exercise was part of the [Udacity Deep Learning / ML nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
